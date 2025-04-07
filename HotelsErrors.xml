@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotels>
+<Hotel>
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
@@ -121,4 +121,4 @@
 			<Zip>20004</Zip>
 		</Address>
 	</Hotel>
-</Hotels>
+</Hotel>
